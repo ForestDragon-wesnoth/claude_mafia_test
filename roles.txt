@@ -23,7 +23,7 @@ WIN CONDITION: Mafia equal or outnumber Town.
 NOTES: Knows all other Mafia. Coordinates privately at night.
 
 GAME SETUP:
-Players: 7
+Players: 8
 Composition: 4 Villager, 1 Detective, 1 Doctor, 2 Mafioso
 Day: discussion, then simultaneous vote. Majority lynches. Ties = no lynch.
 Night: actions resolve, deaths announced without role reveal.
