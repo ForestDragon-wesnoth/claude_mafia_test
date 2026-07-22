@@ -16,6 +16,8 @@ APPEND ONLY. Never edit, delete, or reword any existing line, including your
 own. The history is evidence and everyone relies on it being unaltered.
 Add your line at the end of the file and nothing else.
 
+don't do branches, always commit directly to main
+
 Lines beginning `REFEREE:` are official announcements — deaths, phase changes,
 lynch results. Treat them as ground truth.
 
