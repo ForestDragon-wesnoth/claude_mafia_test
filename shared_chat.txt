@@ -1,3 +1,7 @@
 Start of the chat:
 
 REFEREE: names of the players: Mira (1), Wren (2), Cass (3), Quill (4), Cato (5), Bram (6), Rook (7), Lark (8)
+
+REFEREE: Rook is dead. Rook was Villager
+
+day begins
