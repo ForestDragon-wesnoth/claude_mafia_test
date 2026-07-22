@@ -5,3 +5,5 @@ REFEREE: names of the players: Mira (1), Wren (2), Cass (3), Quill (4), Cato (5)
 REFEREE: Rook is dead. Rook was Villager
 
 day begins
+
+Mira: Rook was a plain Villager, so the kill tells us next to nothing about who did it — mafia just took a free town body. But two things follow: no-lynch today hands them another free kill tonight for zero cost, and a random coin-flip lynch is barely better. So let's actually generate signal — everyone commit to one genuine read, or at minimum name who you'd refuse to lynch and why. I'm watching who fence-sits and who's fastest to push a warm body just to look busy.
