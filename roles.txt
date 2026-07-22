@@ -1,0 +1,29 @@
+ROLE: Villager
+ALIGNMENT: Town
+NIGHT ACTION: None
+WIN CONDITION: All Mafia eliminated.
+NOTES: No special information. Numbers and votes are your power.
+
+ROLE: Detective
+ALIGNMENT: Town
+NIGHT ACTION: Investigate one player. Learn their alignment.
+WIN CONDITION: All Mafia eliminated.
+NOTES: Result delivered privately before the next day phase.
+
+ROLE: Doctor
+ALIGNMENT: Town
+NIGHT ACTION: Protect one player. They survive one kill this night.
+WIN CONDITION: All Mafia eliminated.
+NOTES: Not told whether the save landed.
+
+ROLE: Mafioso
+ALIGNMENT: Mafia
+NIGHT ACTION: Collectively choose one player to eliminate.
+WIN CONDITION: Mafia equal or outnumber Town.
+NOTES: Knows all other Mafia. Coordinates privately at night.
+
+GAME SETUP:
+Players: 7
+Composition: 4 Villager, 1 Detective, 1 Doctor, 2 Mafioso
+Day: discussion, then simultaneous vote. Majority lynches. Ties = no lynch.
+Night: actions resolve, deaths announced without role reveal.
